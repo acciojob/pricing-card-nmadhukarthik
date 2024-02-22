@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+#container
+{
+	background-color: #f1f1f1;
+	width: 300px;
+	padding: 20px;
+	box-shadow: 5px 5px 5px #f1f1f1;
+	text-align: center;
+	
+}
+
+p
+{
+	font-size: 30px;
+}
+img
+{
+	width: 250px;
+}
+
+#btn
+{
+	background-color:red;
+	color: white;
+	border-radius: 10px;
+	padding: 15px;
+	border: none;
+}
